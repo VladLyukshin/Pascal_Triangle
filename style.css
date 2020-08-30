@@ -1,0 +1,26 @@
+.brick {
+        display: inline-block;
+        position: relative;
+        border: 1px;
+        text-align: center;
+        font-size: 10pt;
+        color: white;
+}
+.brick:nth-child(n) {
+        background: purple;
+
+}
+#pastriangle {
+        text-align: center;
+}
+body {
+        background: url(s1201.jpg);
+}
+h1 {
+        color: aqua;
+        box-shadow: 5px 5px;
+}
+h3 {
+        color: yellow;
+        box-shadow: 5px 5px;
+}
